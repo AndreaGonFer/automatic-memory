@@ -3,3 +3,6 @@ Asturias
 Cantabria
 Pais Vasco
 Navarra
+Castilla y León
+La Rioja
+Cataluña
